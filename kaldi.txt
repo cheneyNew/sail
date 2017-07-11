@@ -1,1 +1,2 @@
 hello kaldi
+系统检测结果
