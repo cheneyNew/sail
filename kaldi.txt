@@ -1,2 +1,3 @@
 hello kaldi
-系统检测结果
+hello Python
+鐪嬫湀浜埇涓婃潵
