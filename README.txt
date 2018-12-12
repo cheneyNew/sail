@@ -9,3 +9,4 @@ xiugai
 haha
 Exercise on 17 June 2018
 Create branch dev
+Creating a new branch is quick AND simple.
